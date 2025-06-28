@@ -1,4 +1,3 @@
-# devopsbranding
 # 👋 Hi, I'm Swapnil
 
 🚀 DevOps Specialist Engineer | AWS Cloud Enthusiast | Automation Learner
